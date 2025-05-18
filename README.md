@@ -54,10 +54,10 @@ This tool helps HR teams and ATS systems automate resume screening with accurate
 ## 📈 Sample Output
 
 **🔹 Top 5 Matching Jobs:**
-Data Scientist - Lockheed Martin (⭐ 43.62%)
-Data Analyst - RGA (⭐ 42.01%)
-Data Engineer - Fresenius (⭐ 36.36%)
-Network Engineer - Maruti Suzuki (⭐ 33.46%)
+ - Data Scientist - Lockheed Martin (⭐ 43.62%)
+ - Data Analyst - RGA (⭐ 42.01%)
+ - Data Engineer - Fresenius (⭐ 36.36%)
+ - Network Engineer - Maruti Suzuki (⭐ 33.46%)
 
 
 **📄 Resume Score:**
